@@ -1,0 +1,112 @@
+* Descripcion del curso
+** Certificado Digital
+   curso 20hrs  certificado asistencia
+   asistencia
+   trabajos en clases
+   9:00 10:30  Lunes martes miercoles jueves ------ sabados domingos (2 semanas)
+
+  - Python programacion Estructurado
+   Vision Artificial Opencv
+   
+  -* Python OOP
+    Pyqt5
+    Vision Artificial Opencv
+
+  - Aprendizaje de Maquina
+    Python
+    Tensorflow Keras
+    
+* Proyecto Encender/Apagar  una camara desde una interfaza grafica
+
+  
+** Herramientas a utilizar
+   
+*** python 3.9  y se debe marcar la opcion de añadir al path
+
+*** IDE visual code/pycharm/visual estudio
+
+*** * Descripcion del curso
+** Certificado Digital
+   curso 20hrs  certificado asistencia
+   asistencia
+   trabajos en clases
+   9:00 10:30  Lunes martes miercoles jueves ------ sabados domingos (2 semanas)
+
+  - Python programacion Estructurado
+   Vision Artificial Opencv
+   
+  -* Python OOP
+    Pyqt5
+    Vision Artificial Opencv
+
+  - Aprendizaje de Maquina
+    Python
+    Tensorflow Keras
+    
+* Proyecto Encender/Apagar  una camara desde una interfaza grafica
+
+  
+** Herramientas a utilizar
+   
+*** python 3.9  y se debe marcar la opcion de añadir al path
+
+*** IDE visual code/pycharm/visual estudio
+
+*** 
+   * Descripcion del curso
+** Certificado Digital
+   curso 20hrs  certificado asistencia
+   asistencia
+   trabajos en clases
+   9:00 10:30  Lunes martes miercoles jueves ------ sabados domingos (2 semanas)
+
+  - Python programacion Estructurado
+   Vision Artificial Opencv
+   
+  - Python OOP
+    Pyqt5
+    Vision Artificial Opencv
+    100bs Aprobacion
+    
+  - Aprendizaje de Maquina
+    Python
+    Tensorflow Keras
+    
+* Proyecto Encender/Apagar  una camara desde una interfaza grafica
+
+  
+** Herramientas a utilizar
+   
+*** python 3.9  y se debe marcar la opcion de añadir al path
+
+*** IDE visual code/pycharm/visual estudio
+
+*** download qtdesigner5
+
+*** pip install opencv-contrib-python
+
+*** pip install PyQt5
+
+*** pip install pyuic5-tool
+ 
+** Como se hace una interfaz grafica
+   pyQt5(*)  pyQt6
+   tkinter
+   Gtk
+
+   pyuic5 archivo.ui -o archivo.py
+   
+** Conceptos POO 
+*** abstraccion
+*** encapsulacion
+    self.__nombre  #private
+    self._nombre   #protect
+    self.nombre    #public
+*** herencia
+    
+*** polimorfismo
+
+    
+** Como acceder a la camara
+    
+   
