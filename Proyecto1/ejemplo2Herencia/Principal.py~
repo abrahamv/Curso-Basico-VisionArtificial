@@ -1,0 +1,13 @@
+
+if __name__="__main__":
+juan=Persona("Juan",23)
+#print(juan.__nombre)
+print(juan)
+roberto=Persona()
+print(roberto)
+
+estudianteJuan=Estudiante("Juan",23,"123ABC")
+print(estudianteJuan)
+
+abraham=Docente("abraham",40,"ID123")
+print(abraham)
